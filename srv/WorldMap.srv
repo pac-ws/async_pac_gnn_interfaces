@@ -1,0 +1,4 @@
+int32 map_size
+---
+bool success
+std_msgs/Float32MultiArray map
