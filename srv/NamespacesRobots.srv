@@ -1,0 +1,4 @@
+uint64 num_robots
+---
+bool success
+string[] namespaces
