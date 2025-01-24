@@ -25,6 +25,7 @@ set(interface_files
 	"srv/UpdateAggregatedMsg.srv"
 	"srv/NamespacesRobots.srv"
 	"srv/WorldMap.srv"
+  "srv/SystemInfo.srv"
 	"msg/AggregatedMsgVector.msg"
 	"msg/AggregatedMsg.msg"
 	"msg/LayerFeatures.msg"
