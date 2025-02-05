@@ -1,7 +1,7 @@
 int32 map_size
 ---
 bool success
-std_msgs/Float32MultiArray map
+string idf_file
 string[] namespaces
 float32 velocity_scale_factor
 
