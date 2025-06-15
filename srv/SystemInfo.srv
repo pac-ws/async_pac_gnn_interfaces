@@ -1,6 +1,5 @@
-int32 map_size
+string name
 ---
-bool success
 string idf_file
 string[] namespaces
 float32 velocity_scale_factor

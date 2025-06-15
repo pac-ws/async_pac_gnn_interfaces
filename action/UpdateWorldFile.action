@@ -1,0 +1,16 @@
+# Goal: File and namespaces to update
+string file
+string[] namespaces
+---
+# Result: Final status of all robot updates
+bool success
+string message
+uint32 num_success
+uint32 num_total
+---
+# Feedback: Progress updates during execution
+uint32 robots_completed
+uint32 robots_total
+string[] completed_namespaces
+string[] failed_namespaces
+string message

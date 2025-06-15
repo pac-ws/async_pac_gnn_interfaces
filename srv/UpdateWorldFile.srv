@@ -1,4 +1,5 @@
 string file
+string[] namespaces
 ---
 bool success
 string message

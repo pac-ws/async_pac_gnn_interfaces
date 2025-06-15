@@ -26,7 +26,6 @@ set(interface_files
 	"srv/NamespacesRobots.srv"
 	"srv/WorldMap.srv"
   "srv/SystemInfo.srv"
-  "srv/WorldFile.srv"
   "srv/UpdateWorldFile.srv"
 	"msg/AggregatedMsgVector.msg"
 	"msg/AggregatedMsg.msg"
@@ -34,6 +33,7 @@ set(interface_files
 	"msg/FeatureVector.msg"
 	"msg/RobotsIds.msg"
     "msg/RobotStatus.msg"
+    "action/UpdateWorldFile.action"
 )
 rosidl_generate_interfaces(${PROJECT_NAME}
 	${interface_files}
