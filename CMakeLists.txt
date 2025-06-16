@@ -33,6 +33,8 @@ set(interface_files
 	"msg/FeatureVector.msg"
 	"msg/RobotsIds.msg"
     "msg/RobotStatus.msg"
+    "msg/RobotPositions.msg"
+    "msg/Features.msg"
     "action/UpdateWorldFile.action"
 )
 rosidl_generate_interfaces(${PROJECT_NAME}
