@@ -3,4 +3,4 @@ string name
 string idf_file
 string[] namespaces
 float32 velocity_scale_factor
-
+float32 env_scale_factor
