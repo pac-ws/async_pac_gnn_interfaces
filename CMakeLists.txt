@@ -35,6 +35,7 @@ set(interface_files
     "msg/RobotStatus.msg"
     "msg/RobotPositions.msg"
     "msg/Features.msg"
+    "msg/MissionControl.msg"
     "action/UpdateWorldFile.action"
 )
 rosidl_generate_interfaces(${PROJECT_NAME}
