@@ -1,4 +1,4 @@
-uint64 num_robots
+# Request: empty
 ---
-bool success
+# Response
 string[] namespaces

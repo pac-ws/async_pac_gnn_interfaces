@@ -1,6 +1,5 @@
-# Goal: File and namespaces to update
+# Goal: File to update
 string file
-string[] namespaces
 ---
 # Result: Final status of all robot updates
 bool success
