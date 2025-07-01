@@ -1,7 +1,7 @@
 bool hw_enable
-bool offboard_enable
-bool takeoff
-bool land
+bool ob_enable
+bool ob_takeoff
+bool ob_land
 bool geofence
 bool pac_offboard_only
 bool pac_lpac_l1
