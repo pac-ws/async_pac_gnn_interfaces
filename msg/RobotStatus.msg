@@ -1,5 +1,3 @@
-int8 ready
-int8 batt
 string state
 bool breach
 float32 gps_lat
@@ -11,9 +9,6 @@ float32 local_pos_x
 float32 local_pos_y
 float32 local_pos_z
 float32 local_pos_heading
-float32 pose_x
-float32 pose_y
-float32 pose_z
 float32 ned_vel_x
 float32 ned_vel_y
 float32 ned_vel_z
