@@ -1,4 +1,5 @@
 string state
+string diagnostic
 bool breach
 float32 gps_lat
 float32 gps_lon
