@@ -13,3 +13,10 @@ float32 local_pos_heading
 float32 ned_vel_x
 float32 ned_vel_y
 float32 ned_vel_z
+bool pre_flight_checks_pass
+uint8 arming_state
+uint8 disarming_reason
+uint8 nav_state
+bool gcs_conn_lost
+uint16 failure_detector_status
+bool safety_off
